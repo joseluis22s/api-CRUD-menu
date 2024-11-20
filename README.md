@@ -7,4 +7,4 @@ Este es el BACK-END de un proyecto personal general denominado "PROYECTO CRUD"
 
 Nota: Como siguinete paso de este proyecto se busca refactorizar el código y emplear buenas practicas de desarrollo.
 
-Estado: Semicompletao/Funcional/En desarrollo.
+Estado: Semicompleto/Funcional/En desarrollo.
